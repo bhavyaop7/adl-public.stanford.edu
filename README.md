@@ -1,1 +1,1 @@
-# pro-article-customisation.ft.com
+# adl-public.stanford.edu
